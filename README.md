@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**santiFie/santiFie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bienvenido/a a mi perfil de GitHub
 
-Here are some ideas to get you started:
+¡Hola! Soy Santiago Fierro, un estudiante de licenciatura en sistemas en la Universidad Nacional de La Plata (UNLP). Mi área principal de interés es el análisis de datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Proyecto Destacado
+
+- [UNLP Image](enlace-al-repositorio): Una aplicación de escritorio para editar fotos y hacer collages. Realicé el análisis de datos de la aplicación.
+
+
+## Contacto
+
+¡No dudes en contactarme a través de mis redes sociales!
+
+- LinkedIn: [Santiago Fierro](https://www.linkedin.com/in/santiago-fierro-b486732a9/)
+- Mail: [santiago.fierro99@gmail.com]
