@@ -22,7 +22,7 @@ Soy estudiante de la Licenciatura en Sistemas en la Universidad Nacional de La P
 Sistema de gestión para un centro de equinoterapia, desarrollado con **Flask**, **PostgreSQL** y **TailwindCSS**. Incluye funcionalidades para manejar empleaodos, cobros, clientes y caballos, con formularios intuitivos y soporte para archivos con MiniO.  
 
 **Tecnologías utilizadas:** Flask, SQLAlchemy, PostgreSQL, Docker, MinIO, TailwindCSS.  
-**Repositorio:** [Ver proyecto](https://github.com/santiFie/cedica)
+**Repositorio:** [Ver proyecto](https://github.com/santiFie/cedica-private-docker)
 
 ### **FitStore Manager**
 Sistema de gestión para tiendas de artículos deportivos, desarrollado con HTML y tecnologías web.  
