@@ -12,7 +12,7 @@ Soy estudiante de la Licenciatura en Sistemas en la Universidad Nacional de La P
 
 - **Analista Programador Universitario**  
   *Universidad Nacional de La Plata (UNLP)*  
-  Finalicé la cursada en 2024; pendiente de rendir tres exámenes finales para obtener el título.
+  Finalicé la cursada en 2024; pendiente de rendir un exámen final para obtener el título.
 
 ---
 
@@ -34,7 +34,7 @@ Sistema de gestión para tiendas de artículos deportivos, desarrollado con HTML
 Versión contenedorizada del sistema CE.DI.CA, configurada con **Docker Compose** para integrar Flask, PostgreSQL, MinIO y pgAdmin en un entorno de desarrollo y producción reproducible.  
 
 **Tecnologías utilizadas:** Docker, Flask, PostgreSQL, MinIO, pgAdmin.  
-**Repositorio:** [Ver proyecto](https://github.com/santiFie/cedica-docker)
+**Repositorio:** [Ver proyecto]((https://github.com/santiFie/cedica-private-docker))
 
 ### **Proyecto Ingeniería 2**
 Proyecto académico desarrollado con **Django**, diseñado para gestionar equipos interdisciplinarios en un entorno clínico. Incluye generación de reportes y manejo avanzado de usuarios.  
