@@ -22,7 +22,7 @@ Soy estudiante de la Licenciatura en Sistemas en la Universidad Nacional de La P
 Sistema de gestión para un centro de equinoterapia, desarrollado con **Flask**, **PostgreSQL** y **TailwindCSS**. Incluye funcionalidades para manejar empleaodos, cobros, clientes y caballos, con formularios intuitivos y soporte para archivos con MiniO.  
 
 **Tecnologías utilizadas:** Flask, SQLAlchemy, PostgreSQL, Docker, MinIO, TailwindCSS.  
-**Repositorio:** [Ver proyecto](https://github.com/santiFie/cedica-private-docker)
+**Repositorio:** [Ver proyecto](https://github.com/santiFie/Cedica-App)
 
 ### **FitStore Manager**
 Sistema de gestión para tiendas de artículos deportivos, desarrollado con HTML y tecnologías web.  
@@ -34,7 +34,7 @@ Sistema de gestión para tiendas de artículos deportivos, desarrollado con HTML
 Versión contenedorizada del sistema CE.DI.CA, configurada con **Docker Compose** para integrar Flask, PostgreSQL, MinIO y pgAdmin en un entorno de desarrollo y producción reproducible.  
 
 **Tecnologías utilizadas:** Docker, Flask, PostgreSQL, MinIO, pgAdmin.  
-**Repositorio:** [Ver proyecto]((https://github.com/santiFie/cedica-private-docker))
+**Repositorio:** [Ver proyecto](https://github.com/santiFie/cedica-private-docker)
 
 ### **Proyecto Ingeniería 2**
 Proyecto académico desarrollado con **Django**, diseñado para gestionar equipos interdisciplinarios en un entorno clínico. Incluye generación de reportes y manejo avanzado de usuarios.  
