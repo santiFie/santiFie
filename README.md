@@ -1,80 +1,83 @@
 # 👋 ¡Hola! Soy Santiago Fierro
 
-Soy estudiante de la Licenciatura en Sistemas en la Universidad Nacional de La Plata (UNLP), apasionado por el desarrollo de software y en busca de oportunidades para aplicar y expandir mis conocimientos en entornos profesionales.
+**Data Engineer Junior | Full Stack Developer**
+
+Soy Analista Programador Universitario y estudiante avanzado de la Licenciatura en Sistemas en la Universidad Nacional de La Plata (UNLP). Cuento con una base técnica sólida en desarrollo backend (Java/Spring, Python) y actualmente estoy transicionando mi carrera hacia la **Ingeniería de Datos y Machine Learning**.
+
+Me apasiona construir pipelines de datos eficientes, optimizar flujos de trabajo y aplicar modelos de Deep Learning para resolver problemas reales.
 
 ---
 
-## 🎓 Educación
+## 🛠️ Stack Tecnológico
 
-- **Licenciatura en Sistemas**  
-  *Universidad Nacional de La Plata (UNLP)*  
-  Actualmente cursando el cuarto año de la carrera, con un enfoque en desarrollo de software y análisis de datos.
-
-- **Analista Programador Universitario**  
-  *Universidad Nacional de La Plata (UNLP)*  
-  Finalicé la cursada en 2024; pendiente de rendir un exámen final para obtener el título.
+| Área | Tecnologías |
+| :--- | :--- |
+| **Data Engineering & ML** | Python (Pandas, NumPy), TensorFlow, Keras, Scikit-learn, ETL Pipelines. |
+| **Visualización & BI** | Tableau (Dashboards interactivos), Matplotlib. |
+| **Backend & Dev** | Java (Spring Boot), Python (Django/Flask), SQL. |
+| **Infraestructura & Tools** | Docker, Docker Compose, Git/GitHub, Linux (Bash), MinIO (S3 Compatible). |
+| **Bases de Datos** | PostgreSQL, MySQL, MongoDB, Redis. |
 
 ---
 
 ## 💻 Proyectos Destacados
 
-### **CE.DI.CA** *(Centro de Equinoterapia)*
-Sistema de gestión para un centro de equinoterapia, desarrollado con **Flask**, **PostgreSQL** y **TailwindCSS**. Incluye funcionalidades para manejar empleaodos, cobros, clientes y caballos, con formularios intuitivos y soporte para archivos con MiniO.  
+### 📊 **Financial Fraud Detection & Deep Learning Portfolio**
+*El proyecto central de mi transición a Data.*
+Un repositorio integral que combina ingeniería de datos aplicada y modelos académicos avanzados.
+* **Pipeline de Detección de Fraude:** Implementación de un flujo ETL en Python para procesar transacciones financieras, entrenar un **Autoencoder** para detección de anomalías y visualizar el riesgo en **Tableau**.
+* **Deep Learning:** Colección de implementaciones de redes neuronales (CNNs, MLPs) para clasificación de audio, imágenes y datos tabulares.
 
-**Tecnologías utilizadas:** Flask, SQLAlchemy, PostgreSQL, Docker, MinIO, TailwindCSS.  
-**Repositorio:** [Ver proyecto](https://github.com/santiFie/Cedica-App)
+**Tecnologías:** Python, Pandas, TensorFlow/Keras, Autoencoders, Tableau, ETL.
+**Repositorio:** [Ver proyecto](https://github.com/santiFie/Data-Engineering?tab=readme-ov-file)
 
-### **FitStore Manager**
-Sistema de gestión para tiendas de artículos deportivos, desarrollado con HTML y tecnologías web.  
+### 
 
-**Tecnologías utilizadas:** HTML, CSS, JavaScript.  
-**Repositorio:** [Ver proyecto](https://github.com/santiFie/fitstore-manager)
+### 🐳 **CE.DI.CA Dockerizado**
+Versión contenerizada de un sistema de gestión para un centro de equinoterapia. Configurada con **Docker Compose** para orquestar múltiples servicios en un entorno reproducible, demostrando habilidades de infraestructura y despliegue.
 
-### **CE.DI.CA Dockerizado**
-Versión contenedorizada del sistema CE.DI.CA, configurada con **Docker Compose** para integrar Flask, PostgreSQL, MinIO y pgAdmin en un entorno de desarrollo y producción reproducible.  
-
-**Tecnologías utilizadas:** Docker, Flask, PostgreSQL, MinIO, pgAdmin.  
+**Tecnologías:** Docker, Docker Compose, Flask, PostgreSQL, MinIO, pgAdmin.
 **Repositorio:** [Ver proyecto](https://github.com/santiFie/cedica-private-docker)
 
-### **Proyecto Ingeniería 2**
-Proyecto académico desarrollado con **Django**, diseñado para gestionar equipos interdisciplinarios en un entorno clínico. Incluye generación de reportes y manejo avanzado de usuarios.  
+### 🏥 **Proyecto Ingeniería 2**
+Sistema de gestión para equipos interdisciplinarios en entornos clínicos, desarrollado con arquitectura MVC. Incluye lógica de negocio compleja, generación de reportes y gestión de usuarios.
 
-**Tecnologías utilizadas:** Django, SQLite.  
+**Tecnologías:** Django, Python, SQLite, HTML/CSS.
 **Repositorio:** [Ver proyecto](https://github.com/santiFie/proyecto-ingenieria2)
 
-### **UNLP Image**
-Aplicación de escritorio para edición de fotos y creación de collages. Participé en el análisis de datos para optimizar las funcionalidades de la aplicación.  
+### 🛒 **FitStore Manager**
+Sistema de gestión web para tiendas de artículos deportivos.
 
-**Tecnologías utilizadas:** Python, PyQt.  
-**Repositorio:** [Ver proyecto](https://github.com/santiFie/unlp-image)
+**Tecnologías:** Ruby on Rails, HTML, CSS, JavaScript.
+**Repositorio:** [Ver proyecto](https://github.com/santiFie/fitstore-manager)
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🎓 Educación
 
-- **Lenguajes de Programación:** Python, SQL, JavaScript, Ruby.  
-- **Frameworks y Librerías:** Django, Flask, Vue.js, Ruby on Rails.  
-- **Bases de Datos:** PostgreSQL, MySQL, SQLite.  
-- **Herramientas de Desarrollo:** Docker, Git, GitHub, MinIO, TailwindCSS.  
-- **Análisis de Datos:** Experiencia en análisis de datos con Python.  
-- **Idiomas:** Español (nativo), Inglés (nivel intermedio, equivalente a First Certificate sin certificación).
+- **Licenciatura en Sistemas**
+  *Universidad Nacional de La Plata (UNLP)*
+  *En curso (4to año).* Focalizado en materias electivas de Inteligencia Artificial, Deep Learning y Diseño de Bases de Datos avanzadas.
+
+- **Analista Programador Universitario**
+  *Universidad Nacional de La Plata (UNLP)*
+  *Finalizado (2025).*
 
 ---
 
 ## 🌱 Actualmente
 
-- Buscando oportunidades de empleo en desarrollo de software.  
-- Ampliando conocimientos en tecnologías backend y frontend.  
-- Participando en proyectos académicos y personales para fortalecer habilidades prácticas.
+- 🚀 **Transicionando hacia roles de Data Engineering:** Aplicando mi experiencia previa en backend para construir arquitecturas de datos robustas.
+- 🧠 **Profundizando en Machine Learning:** Realizando prácticas avanzadas con Redes Neuronales Convolucionales (CNN) y Autoencoders.
+- 📊 **Mejorando Storytelling con Datos:** Creando dashboards en Tableau para traducir métricas técnicas en valor de negocio.
+- 💼 **En búsqueda activa:** Interesado en posiciones de Data Engineer Jr, Python Developer o Backend con foco en datos.
 
 ---
 
 ## 📫 Contacto
 
-- **Correo Electrónico:** santiago.fierro99@gmail.com  
-- **LinkedIn:** [Santiago Fierro](https://www.linkedin.com/in/santiago-fierro-b486732a9/)  
+- **LinkedIn:** [Santiago Fierro](https://www.linkedin.com/in/santiago-fierro-b486732a9/)
+- **Correo:** santiago.fierro99@gmail.com
 
 ---
-
-¡Gracias por visitar mi perfil! Estoy abierto a colaboraciones y oportunidades que me permitan crecer profesionalmente en el mundo del desarrollo de software.
-
+*Gracias por visitar mi perfil.*
